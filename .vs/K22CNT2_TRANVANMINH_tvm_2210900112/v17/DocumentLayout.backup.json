@@ -1,0 +1,298 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D70E98A-05EC-47AA-9380-FE7DD4C15ADC}|K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112.csproj|c:\\users\\user\\source\\repos\\k22cnt2_tranvanminh_tvm_2210900112\\k22cnt2_tranvanminh_tvm_2210900112\\areas\\admintvm\\views\\tvmdon_hang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D70E98A-05EC-47AA-9380-FE7DD4C15ADC}|K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112.csproj|solutionrelative:k22cnt2_tranvanminh_tvm_2210900112\\areas\\admintvm\\views\\tvmdon_hang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D70E98A-05EC-47AA-9380-FE7DD4C15ADC}|K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112.csproj|c:\\users\\user\\source\\repos\\k22cnt2_tranvanminh_tvm_2210900112\\k22cnt2_tranvanminh_tvm_2210900112\\areas\\admintvm\\views\\tvmdon_hang\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D70E98A-05EC-47AA-9380-FE7DD4C15ADC}|K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112.csproj|solutionrelative:k22cnt2_tranvanminh_tvm_2210900112\\areas\\admintvm\\views\\tvmdon_hang\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D70E98A-05EC-47AA-9380-FE7DD4C15ADC}|K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112.csproj|c:\\users\\user\\source\\repos\\k22cnt2_tranvanminh_tvm_2210900112\\k22cnt2_tranvanminh_tvm_2210900112\\areas\\admintvm\\controllers\\tvmdon_hangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D70E98A-05EC-47AA-9380-FE7DD4C15ADC}|K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112.csproj|solutionrelative:k22cnt2_tranvanminh_tvm_2210900112\\areas\\admintvm\\controllers\\tvmdon_hangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D70E98A-05EC-47AA-9380-FE7DD4C15ADC}|K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112.csproj|C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\k22cnt2_tranvanminh_tvm_2210900112\\views\\san_pham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D70E98A-05EC-47AA-9380-FE7DD4C15ADC}|K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112.csproj|solutionrelative:k22cnt2_tranvanminh_tvm_2210900112\\views\\san_pham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D70E98A-05EC-47AA-9380-FE7DD4C15ADC}|K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112.csproj|C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\k22cnt2_tranvanminh_tvm_2210900112\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D70E98A-05EC-47AA-9380-FE7DD4C15ADC}|K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112.csproj|solutionrelative:k22cnt2_tranvanminh_tvm_2210900112\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D70E98A-05EC-47AA-9380-FE7DD4C15ADC}|K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112.csproj|C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\k22cnt2_tranvanminh_tvm_2210900112\\modelsviews\\dh_chitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D70E98A-05EC-47AA-9380-FE7DD4C15ADC}|K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112.csproj|solutionrelative:k22cnt2_tranvanminh_tvm_2210900112\\modelsviews\\dh_chitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D70E98A-05EC-47AA-9380-FE7DD4C15ADC}|K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112.csproj|C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\k22cnt2_tranvanminh_tvm_2210900112\\controllers\\san_phamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D70E98A-05EC-47AA-9380-FE7DD4C15ADC}|K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112.csproj|solutionrelative:k22cnt2_tranvanminh_tvm_2210900112\\controllers\\san_phamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D70E98A-05EC-47AA-9380-FE7DD4C15ADC}|K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112.csproj|C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\k22cnt2_tranvanminh_tvm_2210900112\\areas\\admintvm\\controllers\\tvmdashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D70E98A-05EC-47AA-9380-FE7DD4C15ADC}|K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112.csproj|solutionrelative:k22cnt2_tranvanminh_tvm_2210900112\\areas\\admintvm\\controllers\\tvmdashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D70E98A-05EC-47AA-9380-FE7DD4C15ADC}|K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112.csproj|C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\k22cnt2_tranvanminh_tvm_2210900112\\modelsviews\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D70E98A-05EC-47AA-9380-FE7DD4C15ADC}|K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112.csproj|solutionrelative:k22cnt2_tranvanminh_tvm_2210900112\\modelsviews\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D70E98A-05EC-47AA-9380-FE7DD4C15ADC}|K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112.csproj|C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\k22cnt2_tranvanminh_tvm_2210900112\\areas\\admintvm\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D70E98A-05EC-47AA-9380-FE7DD4C15ADC}|K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112.csproj|solutionrelative:k22cnt2_tranvanminh_tvm_2210900112\\areas\\admintvm\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D70E98A-05EC-47AA-9380-FE7DD4C15ADC}|K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112.csproj|C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\k22cnt2_tranvanminh_tvm_2210900112\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D70E98A-05EC-47AA-9380-FE7DD4C15ADC}|K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112.csproj|solutionrelative:k22cnt2_tranvanminh_tvm_2210900112\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D70E98A-05EC-47AA-9380-FE7DD4C15ADC}|K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112.csproj|C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\k22cnt2_tranvanminh_tvm_2210900112\\areas\\admintvm\\admintvmarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D70E98A-05EC-47AA-9380-FE7DD4C15ADC}|K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112.csproj|solutionrelative:k22cnt2_tranvanminh_tvm_2210900112\\areas\\admintvm\\admintvmarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D70E98A-05EC-47AA-9380-FE7DD4C15ADC}|K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112.csproj|C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\k22cnt2_tranvanminh_tvm_2210900112\\areas\\admintvm\\views\\tvmdashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D70E98A-05EC-47AA-9380-FE7DD4C15ADC}|K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112.csproj|solutionrelative:k22cnt2_tranvanminh_tvm_2210900112\\areas\\admintvm\\views\\tvmdashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D70E98A-05EC-47AA-9380-FE7DD4C15ADC}|K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112.csproj|C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\k22cnt2_tranvanminh_tvm_2210900112\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D70E98A-05EC-47AA-9380-FE7DD4C15ADC}|K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112.csproj|solutionrelative:k22cnt2_tranvanminh_tvm_2210900112\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D70E98A-05EC-47AA-9380-FE7DD4C15ADC}|K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112.csproj|C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\k22cnt2_tranvanminh_tvm_2210900112\\bussiness\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D70E98A-05EC-47AA-9380-FE7DD4C15ADC}|K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112.csproj|solutionrelative:k22cnt2_tranvanminh_tvm_2210900112\\bussiness\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D70E98A-05EC-47AA-9380-FE7DD4C15ADC}|K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112.csproj|C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\k22cnt2_tranvanminh_tvm_2210900112\\views\\cart\\thongtinthanhtoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D70E98A-05EC-47AA-9380-FE7DD4C15ADC}|K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112.csproj|solutionrelative:k22cnt2_tranvanminh_tvm_2210900112\\views\\cart\\thongtinthanhtoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D70E98A-05EC-47AA-9380-FE7DD4C15ADC}|K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112.csproj|C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\k22cnt2_tranvanminh_tvm_2210900112\\models\\modeltvm.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{3D70E98A-05EC-47AA-9380-FE7DD4C15ADC}|K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112.csproj|solutionrelative:k22cnt2_tranvanminh_tvm_2210900112\\models\\modeltvm.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112\\Areas\\AdminTVM\\Views\\TVMDON_HANG\\Edit.cshtml",
+              "RelativeDocumentMoniker": "K22CNT2_TRANVANMINH_tvm_2210900112\\Areas\\AdminTVM\\Views\\TVMDON_HANG\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112\\Areas\\AdminTVM\\Views\\TVMDON_HANG\\Edit.cshtml",
+              "RelativeToolTip": "K22CNT2_TRANVANMINH_tvm_2210900112\\Areas\\AdminTVM\\Views\\TVMDON_HANG\\Edit.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAjwGEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T12:33:57.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "K22CNT2_TRANVANMINH_tvm_2210900112\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "K22CNT2_TRANVANMINH_tvm_2210900112\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T06:44:41.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TVMDashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112\\Areas\\AdminTVM\\Controllers\\TVMDashboardController.cs",
+              "RelativeDocumentMoniker": "K22CNT2_TRANVANMINH_tvm_2210900112\\Areas\\AdminTVM\\Controllers\\TVMDashboardController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112\\Areas\\AdminTVM\\Controllers\\TVMDashboardController.cs",
+              "RelativeToolTip": "K22CNT2_TRANVANMINH_tvm_2210900112\\Areas\\AdminTVM\\Controllers\\TVMDashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:19:11.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TVMDON_HANGController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112\\Areas\\AdminTVM\\Controllers\\TVMDON_HANGController.cs",
+              "RelativeDocumentMoniker": "K22CNT2_TRANVANMINH_tvm_2210900112\\Areas\\AdminTVM\\Controllers\\TVMDON_HANGController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112\\Areas\\AdminTVM\\Controllers\\TVMDON_HANGController.cs",
+              "RelativeToolTip": "K22CNT2_TRANVANMINH_tvm_2210900112\\Areas\\AdminTVM\\Controllers\\TVMDON_HANGController.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowGkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:17:50.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "K22CNT2_TRANVANMINH_tvm_2210900112\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "K22CNT2_TRANVANMINH_tvm_2210900112\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T07:18:52.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112\\Views\\SAN_PHAM\\Index.cshtml",
+              "RelativeDocumentMoniker": "K22CNT2_TRANVANMINH_tvm_2210900112\\Views\\SAN_PHAM\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112\\Views\\SAN_PHAM\\Index.cshtml",
+              "RelativeToolTip": "K22CNT2_TRANVANMINH_tvm_2210900112\\Views\\SAN_PHAM\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T06:46:23.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112\\Areas\\AdminTVM\\Views\\TVMDON_HANG\\Index.cshtml",
+              "RelativeDocumentMoniker": "K22CNT2_TRANVANMINH_tvm_2210900112\\Areas\\AdminTVM\\Views\\TVMDON_HANG\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112\\Areas\\AdminTVM\\Views\\TVMDON_HANG\\Index.cshtml",
+              "RelativeToolTip": "K22CNT2_TRANVANMINH_tvm_2210900112\\Areas\\AdminTVM\\Views\\TVMDON_HANG\\Index.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T12:27:34.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DH_ChiTiet.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112\\ModelsViews\\DH_ChiTiet.cs",
+              "RelativeDocumentMoniker": "K22CNT2_TRANVANMINH_tvm_2210900112\\ModelsViews\\DH_ChiTiet.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112\\ModelsViews\\DH_ChiTiet.cs",
+              "RelativeToolTip": "K22CNT2_TRANVANMINH_tvm_2210900112\\ModelsViews\\DH_ChiTiet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:35:20.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "K22CNT2_TRANVANMINH_tvm_2210900112\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112\\Controllers\\CartController.cs",
+              "RelativeToolTip": "K22CNT2_TRANVANMINH_tvm_2210900112\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAD4v0kAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:12:24.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112\\ModelsViews\\CartItem.cs",
+              "RelativeDocumentMoniker": "K22CNT2_TRANVANMINH_tvm_2210900112\\ModelsViews\\CartItem.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112\\ModelsViews\\CartItem.cs",
+              "RelativeToolTip": "K22CNT2_TRANVANMINH_tvm_2210900112\\ModelsViews\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:49:09.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SAN_PHAMController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112\\Controllers\\SAN_PHAMController.cs",
+              "RelativeDocumentMoniker": "K22CNT2_TRANVANMINH_tvm_2210900112\\Controllers\\SAN_PHAMController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112\\Controllers\\SAN_PHAMController.cs",
+              "RelativeToolTip": "K22CNT2_TRANVANMINH_tvm_2210900112\\Controllers\\SAN_PHAMController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:41:18.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112\\Areas\\AdminTVM\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "K22CNT2_TRANVANMINH_tvm_2210900112\\Areas\\AdminTVM\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112\\Areas\\AdminTVM\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "K22CNT2_TRANVANMINH_tvm_2210900112\\Areas\\AdminTVM\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T13:18:14.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminTVMAreaRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112\\Areas\\AdminTVM\\AdminTVMAreaRegistration.cs",
+              "RelativeDocumentMoniker": "K22CNT2_TRANVANMINH_tvm_2210900112\\Areas\\AdminTVM\\AdminTVMAreaRegistration.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112\\Areas\\AdminTVM\\AdminTVMAreaRegistration.cs",
+              "RelativeToolTip": "K22CNT2_TRANVANMINH_tvm_2210900112\\Areas\\AdminTVM\\AdminTVMAreaRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:17:00.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112\\Areas\\AdminTVM\\Views\\TVMDashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "K22CNT2_TRANVANMINH_tvm_2210900112\\Areas\\AdminTVM\\Views\\TVMDashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112\\Areas\\AdminTVM\\Views\\TVMDashboard\\Index.cshtml",
+              "RelativeToolTip": "K22CNT2_TRANVANMINH_tvm_2210900112\\Areas\\AdminTVM\\Views\\TVMDashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T13:20:17.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ThongTinThanhToan.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112\\Views\\Cart\\ThongTinThanhToan.cshtml",
+              "RelativeDocumentMoniker": "K22CNT2_TRANVANMINH_tvm_2210900112\\Views\\Cart\\ThongTinThanhToan.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112\\Views\\Cart\\ThongTinThanhToan.cshtml",
+              "RelativeToolTip": "K22CNT2_TRANVANMINH_tvm_2210900112\\Views\\Cart\\ThongTinThanhToan.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T08:07:22.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Shoppingcart.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112\\Bussiness\\Shoppingcart.cs",
+              "RelativeDocumentMoniker": "K22CNT2_TRANVANMINH_tvm_2210900112\\Bussiness\\Shoppingcart.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112\\Bussiness\\Shoppingcart.cs",
+              "RelativeToolTip": "K22CNT2_TRANVANMINH_tvm_2210900112\\Bussiness\\Shoppingcart.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA3wAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:07:32.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ModelTVM.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112\\Models\\ModelTVM.edmx",
+              "RelativeDocumentMoniker": "K22CNT2_TRANVANMINH_tvm_2210900112\\Models\\ModelTVM.edmx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\K22CNT2_TRANVANMINH_tvm_2210900112\\K22CNT2_TRANVANMINH_tvm_2210900112\\Models\\ModelTVM.edmx [Diagram1]",
+              "RelativeToolTip": "K22CNT2_TRANVANMINH_tvm_2210900112\\Models\\ModelTVM.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-08T06:38:17.876Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
